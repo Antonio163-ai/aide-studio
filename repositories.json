@@ -2,9 +2,9 @@
   "repositories": [
     {
       "url": "https://github.com/jsericksk/aide-studio/raw/master/projects/java-android/05-screen-filter.zip",
-      "project_name": "Simple Screen Filter",
+      "project_name": "Simple Example Screen Filter",
       "author": "Antonio Garcia",
-      "description": "Simple filter screen inspirado en Twilight.",
+      "description": "Simple Example filter screen inspirado en Twilight.",
       "type": 0,
       "date": 1598333954553
     },
